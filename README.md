@@ -63,7 +63,7 @@ In addition to the provided code files, our journey through deep learning covers
 - And much more!
 
 
-##Resources
+## Resources
 To learn all the concepts related to deep learning Specialization go through this:-
 - [Campus-X](https://youtube.com/@campus-x)
    Description: This channel contains all resources related to machine learning and Deep learning.
