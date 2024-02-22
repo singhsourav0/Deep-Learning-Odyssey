@@ -62,6 +62,13 @@ In addition to the provided code files, our journey through deep learning covers
 - Reinforcement Learning
 - And much more!
 
+
+##Resources
+To learn all the concepts related to deep learning Specialization go through this:-
+- [Campus-X](https://youtube.com/@campus-x)
+   Description: This channel contains all resources related to machine learning and Deep learning.
+  
+
 ## Licenses
 
 This repository is licensed under the [MIT License](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes. Refer to the [LICENSE](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/LICENSE) file for more information.
