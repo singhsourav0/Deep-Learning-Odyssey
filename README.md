@@ -51,6 +51,30 @@ The code examples in this repository utilize the following technologies:
 ### 9. [9_dropout_Regression.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/9_dropout_Regression.ipynb)
 *Description:* This notebook explores the application of dropout regularization in regression tasks.
 
+### 10. [CIFAR10_CNN.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/CIFAR10_CNN.ipynb)
+*Description:* This notebook covers Convolutional Neural Networks (CNNs) applied to the CIFAR-10 dataset.
+
+### 11. [CNN-transfer_learning.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/CNN-transfer_learning.ipynb)
+*Description:* This notebook demonstrates transfer learning using CNNs.
+
+### 12. [DogBreed.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/DogBreed.ipynb)
+*Description:* This notebook deals with image classification for dog breeds.
+
+### 13. [DogvsCat.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/DogvsCat.ipynb)
+*Description:* This notebook focuses on the classic problem of distinguishing between images of dogs and cats.
+
+### 14. [LSTM_Next_Word_Prediction.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/LSTM_Next_Word_Prediction.ipynb)
+*Description:* This notebook explores LSTM networks for next-word prediction.
+
+### 15. [Non_LinearNN.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/Non_LinearNN.ipynb)
+*Description:* This notebook covers non-linear neural networks.
+
+### 16. [SimpleRNN_IntegerEncoding_Embedding.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/SimpleRNN_IntegerEncoding_Embedding.ipynb)
+*Description:* This notebook demonstrates SimpleRNN networks with integer encoding and embedding.
+
+### 17. [rrrr.jpg](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/rrrr.jpg)
+*Description:* Image file.
+
 ## Deep Learning Journey
 
 In addition to the provided code files, our journey through deep learning covers a wide range of topics including but not limited to:
