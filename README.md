@@ -1,6 +1,6 @@
 # Deep Learning Odyssey
 
-*Welcome to the Deep Learning Odyssey repository! Here, you'll find a collection of Jupyter Notebook files covering various topics in deep learning. These notebooks serve as a journey through the fundamentals and advanced concepts of deep learning.*
+Welcome to the Deep Learning Odyssey repository! Here, you'll find a collection of Jupyter Notebook files covering various topics in deep learning. These notebooks serve as a journey through the fundamentals and advanced concepts of deep learning.
 
 ## Purpose
 
