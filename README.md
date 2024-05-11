@@ -1,6 +1,8 @@
 # Deep Learning Odyssey
 
-Welcome to the Deep Learning Odyssey repository! Here, you'll find a collection of Jupyter Notebook files covering various topics in deep learning. These notebooks serve as a journey through the fundamentals and advanced concepts of deep learning.
+## Welcome to the Deep Learning Odyssey repository! 
+
+Here, you'll find a collection of Jupyter Notebook files covering various topics in deep learning. These notebooks serve as a journey through the fundamentals and advanced concepts of deep learning.
 
 ## Purpose
 
@@ -8,10 +10,17 @@ The purpose of this repository is to provide a comprehensive resource for indivi
 
 ## Features
 
-- **Wide Range of Topics:** Explore a diverse range of deep learning topics, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
-- **Hands-on Examples:** Dive into hands-on examples with Jupyter Notebook files that demonstrate key concepts and techniques.
-- **Practical Applications:** Discover practical applications of deep learning in various domains, including image recognition, natural language processing, and predictive modeling.
-- **Educational Resource:** Use this repository as an educational resource for self-study, classroom instruction, or research purposes.
+### Wide Range of Topics: 
+Explore a diverse range of deep learning topics, including neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
+
+### Hands-on Examples: 
+Dive into hands-on examples with Jupyter Notebook files that demonstrate key concepts and techniques.
+
+### Practical Applications: 
+Discover practical applications of deep learning in various domains, including image recognition, natural language processing, and predictive modeling.
+
+### Educational Resource: 
+Use this repository as an educational resource for self-study, classroom instruction, or research purposes.
 
 ## Technologies
 
@@ -24,56 +33,109 @@ The code examples in this repository utilize the following technologies:
 
 ## Code Files
 
-### 1. [1.M1-CreditCardChurn.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/1.M1-CreditCardChurn.ipynb)
-*Description:* This notebook explores the prediction of credit card churn using deep learning techniques.
+1. **1.M1-CreditCardChurn.ipynb**  
+   - Description: Notebook for predicting credit card churn using deep learning techniques.
+   - Last Updated: 3 months ago
 
-### 2. [2.Mnist_ANN.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/2.Mnist_ANN.ipynb)
-*Description:* This notebook demonstrates the implementation of an Artificial Neural Network (ANN) for classifying digits in the MNIST dataset.
+2. **2.Mnist_ANN.ipynb**  
+   - Description: Notebook implementing an Artificial Neural Network (ANN) for classifying digits in the MNIST dataset.
+   - Last Updated: 3 months ago
 
-### 3. [3.admission-prediction-using-ann.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/3.admission-prediction-using-ann.ipynb)
-*Description:* This notebook focuses on predicting admission chances using an Artificial Neural Network (ANN).
+3. **3.admission-prediction-using-ann.ipynb**  
+   - Description: Notebook focusing on predicting admission chances using an Artificial Neural Network (ANN).
+   - Last Updated: 3 months ago
 
-### 4. [4.Backpropagation-scratch-Regression.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/4.Backpropagation-scratch-Regression.ipynb)
-*Description:* This notebook implements backpropagation from scratch for regression tasks.
+4. **4.Backpropagation-scratch-Regression.ipynb**  
+   - Description: Notebook implementing backpropagation from scratch for regression tasks.
+   - Last Updated: 3 months ago
 
-### 5. [5.backpropagation_classification.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/5.backpropagation_classification.ipynb)
-*Description:* This notebook demonstrates backpropagation for classification tasks.
+5. **5.backpropagation_classification.ipynb**  
+   - Description: Notebook demonstrating backpropagation for classification tasks.
+   - Last Updated: 3 months ago
 
-### 6. [6.vanishing_gradient_problem.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/6.vanishing_gradient_problem.ipynb)
-*Description:* This notebook discusses the vanishing gradient problem and its implications in deep learning.
+6. **6.vanishing_gradient_problem.ipynb**  
+   - Description: Notebook discussing the vanishing gradient problem and its implications in deep learning.
+   - Last Updated: 3 months ago
 
-### 7. [7_early_stopping_keras.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/7_early_stopping_keras.ipynb)
-*Description:* This notebook illustrates early stopping techniques in Keras to prevent overfitting during model training.
+7. **7_early_stopping_keras.ipynb**  
+   - Description: Notebook illustrating early stopping techniques in Keras to prevent overfitting during model training.
+   - Last Updated: 3 months ago
 
-### 8. [8_feature_scaling.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/8_feature_scaling.ipynb)
-*Description:* This notebook covers feature scaling techniques used in preprocessing data for deep learning models.
+8. **8_feature_scaling.ipynb**  
+   - Description: Notebook covering feature scaling techniques used in preprocessing data for deep learning models.
+   - Last Updated: 3 months ago
 
-### 9. [9_dropout_Regression.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/9_dropout_Regression.ipynb)
-*Description:* This notebook explores the application of dropout regularization in regression tasks.
+9. **9_dropout_Regression.ipynb**  
+   - Description: Notebook exploring the application of dropout regularization in regression tasks.
+   - Last Updated: 3 months ago
 
-### 10. [CIFAR10_CNN.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/CIFAR10_CNN.ipynb)
-*Description:* This notebook covers Convolutional Neural Networks (CNNs) applied to the CIFAR-10 dataset.
+10. **Bidirectional_LSTM.ipynb**  
+    - Description: Notebook for LSTM network with bidirectional architecture.
+    - Last Updated: 2 weeks ago
 
-### 11. [CNN-transfer_learning.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/CNN-transfer_learning.ipynb)
-*Description:* This notebook demonstrates transfer learning using CNNs.
+11. **CIFAR10_CNN.ipynb**  
+    - Description: Notebook covering Convolutional Neural Networks (CNNs) applied to the CIFAR-10 dataset.
+    - Last Updated: 2 months ago
 
-### 12. [DogBreed.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/DogBreed.ipynb)
-*Description:* This notebook deals with image classification for dog breeds.
+12. **CNN-transfer_learning.ipynb**  
+    - Description: Notebook demonstrating transfer learning using CNNs.
+    - Last Updated: 2 months ago
 
-### 13. [DogvsCat.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/DogvsCat.ipynb)
-*Description:* This notebook focuses on the classic problem of distinguishing between images of dogs and cats.
+13. **DeepLearning-NPTEL.pdf**  
+    - Description: PDF document covering deep learning topics.
+    - Last Updated: 2 weeks ago
 
-### 14. [LSTM_Next_Word_Prediction.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/LSTM_Next_Word_Prediction.ipynb)
-*Description:* This notebook explores LSTM networks for next-word prediction.
+14. **Deep_learning_nptel.ipynb**  
+    - Description: Notebook with deep learning examples from NPTEL lectures.
+    - Last Updated: 2 weeks ago
 
-### 15. [Non_LinearNN.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/Non_LinearNN.ipynb)
-*Description:* This notebook covers non-linear neural networks.
+15. **DogBreed.ipynb**  
+    - Description: Notebook for CNN-based image classification of dog breeds.
+    - Last Updated: last month
 
-### 16. [SimpleRNN_IntegerEncoding_Embedding.ipynb](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/SimpleRNN_IntegerEncoding_Embedding.ipynb)
-*Description:* This notebook demonstrates SimpleRNN networks with integer encoding and embedding.
+16. **DogvsCat.ipynb**  
+    - Description: Notebook focusing on image classification distinguishing between dogs and cats.
+    - Last Updated: 2 months ago
 
-### 17. [rrrr.jpg](https://github.com/singhsourav0/Deep-Learning-Odyssey/blob/main/rrrr.jpg)
-*Description:* Image file.
+17. **Fashion_MNIST.ipynb**  
+    - Description: Notebook for classifying fashion items using CNN.
+    - Last Updated: 3 weeks ago
+
+18. **GRU_Sentiment_Analysis.ipynb**  
+    - Description: Notebook for sentiment analysis using GRU.
+    - Last Updated: last month
+
+19. **LICENSE**  
+    - Description: License file for the repository.
+    - Last Updated: 3 months ago
+
+20. **LSTM_Fake_News_Classification.ipynb**  
+    - Description: Notebook for LSTM-based fake news classification.
+    - Last Updated: last month
+
+21. **LSTM_Next_Word_Prediction.ipynb**  
+    - Description: Notebook for predicting next word using LSTM.
+    - Last Updated: last month
+
+22. **Non_LinearNN.ipynb**  
+    - Description: Notebook covering non-linear neural networks.
+    - Last Updated: 2 months ago
+
+23. **README.md**  
+    - Description: Readme file for the repository.
+    - Last Updated: 3 weeks ago
+
+24. **SimpleRNN_IntegerEncoding_Embedding.ipynb**  
+    - Description: Notebook demonstrating SimpleRNN with integer encoding and embedding.
+    - Last Updated: 2 months ago
+
+25. **rrrr.jpg**  
+    - Description: Image file.
+    - Last Updated: 3 months ago
+
+26. **yolov3_object_detection.ipynb**  
+    - Description: Notebook for object detection using YOLOv3.
+    - Last Updated: 3 weeks ago
 
 ## Deep Learning Journey
 
@@ -106,4 +168,4 @@ For any questions, suggestions, or feedback, please feel free to contact the rep
 - **Email:** Souravkumar8432@gmail.com
 - **Linkedin:** [inkedin.com/in/singhsourav0/](https://www.linkedin.com/in/singhsourav0/)
 
-We welcome contributions and collaborations to further enrich this repository and make it a valuable resource for the deep learning community.
+We welcome contributions and collaborations to further enrich this repository and make it a valuable resource for the deep 
